@@ -2,7 +2,7 @@
 
 * To use this script drop it into an "Editor" folder in your project
 
-* Select some pdb textures then access the script using the Right Click menu
+* Select some pbr textures then access the script using the Right Click menu
 * ![](https://github.com/mdotstrange/AniMatic/raw/main/AutoMat.gif)
 
 * It will load the textures into the correct channels on the new material
