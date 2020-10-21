@@ -1,6 +1,7 @@
 # AniMatic
 
 * To use this script drop it into an "Editor" folder in your project
+* This script works with Unity Standard Shaders because the other render pipelines are a mess 0_0
 
 * Select some pbr textures then access the script using the Right Click menu
 * ![](https://github.com/mdotstrange/AniMatic/raw/main/AutoMat.gif)
