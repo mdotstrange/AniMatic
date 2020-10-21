@@ -13,7 +13,8 @@
 
 <  if(item.name.Contains("Base_Color") || item.name.Contains("Albedo")) >
 
-* So if your albedo files are just named "Color" chage the "Base_Color" to "Color" etc
+* So if your albedo files are just named "Color" chage the "Base_Color" to "Color"
+* You can add as many words to match just add another ||
 * Do this with the rest of the channels
 
 * YEH YEH its still faster then without this script maaaaaaaaaaan
